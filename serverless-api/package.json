@@ -1,0 +1,24 @@
+{
+	"name": "utell",
+	"version": "1.1.0",
+	"description": "Demo notes API created as a part of the Serverless-Stack.com tutorial.",
+	"main": "handler.js",
+	"scripts": {
+		"test": "serverless-bundle test"
+	},
+	"author": "",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AnomalyInnovations/serverless-stack-demo-api.git"
+	},
+	"devDependencies": {
+		"aws-sdk": "^2.494.0",
+		"serverless-bundle": "^1.2.2",
+		"serverless-offline": "5.3.3"
+	},
+	"dependencies": {
+		"stripe": "^7.4.0",
+		"uuid": "^3.3.2"
+	}
+}

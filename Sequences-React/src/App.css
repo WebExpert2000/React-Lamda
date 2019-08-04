@@ -1,0 +1,27 @@
+.App {
+  margin-top: 15px;
+}
+
+.App .navbar-brand {
+  font-weight: bold;
+}
+
+.App .navbar-link {
+  font-weight: bold;
+}
+
+.video-container video {
+  width: 90% !important;
+}
+
+.pg-viewer-wrapper {
+  overflow-y: auto !important;
+}
+
+.mov-container {
+  overflow-y: auto !important;
+}
+
+.mov-container video {
+  width: 90% !important;
+}

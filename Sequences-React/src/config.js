@@ -6,12 +6,12 @@ export default {
   },
   apiGateway: {
     REGION: "us-east-2",
-    URL: "https://bbxj5j91l7.execute-api.us-east-2.amazonaws.com/prod"
+    URL: "URL"
   },
   cognito: {
     REGION: "us-east-2",
-    USER_POOL_ID: "us-east-2_fFv75x0Y7",
-    APP_CLIENT_ID: "447bmoc6lhcvlqq18dctnbmgfq",
-    IDENTITY_POOL_ID: "us-east-2:908db61f-89ad-4816-8078-a129ad45157b"
+    USER_POOL_ID: "Your Pool ID",
+    APP_CLIENT_ID: "Your Client ID",
+    IDENTITY_POOL_ID: "Your Identiry Pool ID"
   }
 };
